@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local/private paper materials
+*.pdf
+*.tex
+*.bib
+*.aux
+*.log
+*.out
+*.synctex.gz
+*论文写作规则*
+*审查报告*
+*review_report*
+*response_letter*
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
